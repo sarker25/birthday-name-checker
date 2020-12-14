@@ -28,6 +28,6 @@ submitButton.addEventListener("click", function(evt) {
     else 
     {
         // message.innerText = "Your BirthDay Name is" dayIs + ", " + monthIs + " " + getDate + " " + getYear ;
-        message.innerText = "Your BirthDay Name is" + " :" + dayIs ;
+        message.innerText = "Your BirthDay Name is" + " : " + dayIs ;
     }
 });
