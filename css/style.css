@@ -46,6 +46,7 @@ button{
     transform: translateX(-50%);
     margin-top: 15px;
     color:brown;
-    font-size: 60px;
+    font-size: 45px;
+    width: 500px;
 
 }
